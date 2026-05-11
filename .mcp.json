@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "synapse": {
+      "command": "npx",
+      "args": ["-y", "synapse-obsidian", "D:\\llm-wiki-wanghai\\wiki"]
+    }
+  }
+}

@@ -1,0 +1,5 @@
+设计改变一切	conf=low	decay=medium	src=1
+
+Confidence: {'low': 1}
+Decay: {'medium': 1}
+Total: 1

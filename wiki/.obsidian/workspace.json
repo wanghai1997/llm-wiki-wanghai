@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "ce5f8b88ba7971f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5bc261de5b47c12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbc087adfbc6ff26",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6f80dd4be024895b",
+    "type": "split",
+    "children": [
+      {
+        "id": "da708544338da187",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f877082e1f89f02d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "5b173ddbed24efca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "e1ce6d321167d974",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "25065e975e80a1d3",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "笔记本导航器"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "85b73a0367f51802",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d46ace86b8d8952",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "087fe38bff071e6c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "c3624301082a22a8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "raw/archive/AI时代的组织逻辑，彻底变了.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "AI时代的组织逻辑，彻底变了 的出链列表"
+            }
+          },
+          {
+            "id": "72e75551714cba4b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "c5b9e0213ba9c28e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "2ce05b7505608dfa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "raw/archive/AI时代的组织逻辑，彻底变了.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "AI时代的组织逻辑，彻底变了 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false,
+      "markitdown:Convert to Markdown": false,
+      "notebook-navigator:笔记本导航器": false
+    }
+  },
+  "active": "dbc087adfbc6ff26",
+  "lastOpenFiles": [
+    "raw/inbox/金融毕业生应该选“资产管理”还是“投资银行”——从商业模式的角度出发看职业选择和组合构建.md",
+    "raw/archive/金融毕业生应该选“资产管理”还是“投资银行”——从商业模式的角度出发看职业选择和组合构建.md",
+    "raw/archive/商业模式分析方法的宏观应用：从商业模式角度分析中美产业竞争前景.md",
+    "raw/archive/商业模式分析概论二——兼论为什么美股能够实现净现金回报.md",
+    "raw/archive/为什么淄博烧烤可以这么实惠——来自商业模式角度的解释.md",
+    "raw/archive/行业研究员的进阶之路——商业模式研究方法概论（一）.md",
+    "concepts/淄博烧烤的商业模式解释.md",
+    "concepts/资产管理vs投资银行-商业模式.md",
+    "concepts/美股净现金回报的商业模式解释.md",
+    "concepts/中美商业模式差异.md",
+    "concepts/供给端约束因素-商业模式.md",
+    "concepts/利润对增量收入的敏感度.md",
+    "concepts/商业模式分析框架-琦谈.md",
+    "entities/琦谈天下.md",
+    "_analysis_商业模式方法论-琦谈系列.md",
+    "raw/inbox/为什么淄博烧烤可以这么实惠——来自商业模式角度的解释.md",
+    "raw/inbox/商业模式分析方法的宏观应用：从商业模式角度分析中美产业竞争前景.md",
+    "raw/inbox/商业模式分析概论二——兼论为什么美股能够实现净现金回报.md",
+    "raw/inbox/行业研究员的进阶之路——商业模式研究方法概论（一）.md",
+    "log.md",
+    "log.md.tmp.16040.46f5093ac74d",
+    "raw/archive/shaoguan-stakeholder-analysis.pdf",
+    "foundations/ecological-products/cases/萍乡市生态转型.md",
+    "foundations/ecological-products/cases/韶关市生态产品价值实现.md",
+    "foundations/ecological-products/concepts/VEP2.0.md",
+    "foundations/ecological-products/concepts/权力-利益分离-公共政策.md",
+    "foundations/ecological-products/concepts/Mendelow权力-利益矩阵.md",
+    "foundations/ecological-products/concepts/村集体三重身份.md",
+    "raw/inbox/_extracted_text.txt",
+    "raw/inbox/shaoguan-stakeholder-analysis.pdf",
+    "literature",
+    "_templates",
+    "foundations/design-thinking/topics",
+    "foundations/design-thinking/entities",
+    "foundations/design-thinking/concepts",
+    "foundations/design-thinking/books"
+  ]
+}

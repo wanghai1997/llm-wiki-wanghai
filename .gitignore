@@ -1,0 +1,32 @@
+# Nightly maintenance logs
+nightly-log.txt
+
+# Raw source files (large binaries, stored externally)
+wiki/raw/*.pdf
+wiki/raw/*.docx
+wiki/raw/*.doc
+wiki/raw/archive/*.pdf
+wiki/raw/archive/*.docx
+wiki/raw/archive/*.doc
+
+# Temp analysis files
+wiki/_analysis_*.md
+wiki/_lint_report.txt
+wiki/_density_report.txt
+wiki/_inbox_summaries.txt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Password/credentials
+passports/

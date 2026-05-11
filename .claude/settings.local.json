@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c \"from pypdf import PdfReader; print\\('pypdf available'\\)\")",
+      "Bash(pip install *)",
+      "Bash(python3 *)",
+      "Bash(/c/Python314/python *)",
+      "Bash(python *)"
+    ]
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "synapse"
+  ]
+}

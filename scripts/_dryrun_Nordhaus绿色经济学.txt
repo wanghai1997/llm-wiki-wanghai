@@ -1,0 +1,14 @@
+ch16-绿色社会中的企业	conf=medium	decay=medium	src=1
+ch17-绿色税收	conf=medium	decay=medium	src=1
+ch18-绿色创新的双重外部性	conf=medium	decay=fast	src=1
+ch19-绿色社会中的个人选择	conf=medium	decay=medium	src=1
+ch20-绿色企业社会责任	conf=medium	decay=slow	src=1
+ch21-绿色金融	conf=medium	decay=fast	src=1
+ch22-绿色星球	conf=medium	decay=medium	src=1
+ch23-保护地球的气候公约	conf=medium	decay=medium	src=1
+ch24-绿色怀疑论者	conf=medium	decay=medium	src=1
+ch25-绿色精神之旅	conf=medium	decay=medium	src=1
+
+Confidence: {'medium': 10}
+Decay: {'medium': 7, 'fast': 2, 'slow': 1}
+Total: 10
